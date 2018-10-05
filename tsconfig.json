@@ -2,10 +2,11 @@
   "compilerOptions": {
     /* Basic Options */
     "target": "es6",                          
-    "module": "commonjs",                    
+    "module": "commonjs",                   
     "outDir": "lib",                       
     "strict": true,                          
-    "typeRoots": ["./henry-types"],  
+    "typeRoots": ["src/henry-types"],  
+    "rootDirs": ["src"],
     "declaration": true,
     "esModuleInterop": true  
     }
