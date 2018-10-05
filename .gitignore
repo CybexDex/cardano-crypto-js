@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+build
+lib
+*.log
+.idea
+.metadata
+package-backup.json
+.history
+.Trash-*
+_tmp
+
