@@ -1,12 +1,12 @@
 {
   "name": "rust-cardano-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "cardano crypto library for ES6/Typescript",
   "lib": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Henry Syahputra",
   "license": "ISC",
   "dependencies": {
     "rust-cardano-crypto": "^0.2.0"
