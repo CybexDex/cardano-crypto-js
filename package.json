@@ -1,8 +1,8 @@
 {
   "name": "rust-cardano-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cardano crypto library for ES6/Typescript",
-  "lib": "index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
